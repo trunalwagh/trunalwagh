@@ -1,8 +1,4 @@
 # Hi, I'm Trunal 👋
 
 ## 🔧 Skills
-- **Languages:** Java, C++, Python, TypeScript
-- **Web:** HTML, CSS, JavaScript, React, Flask
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Appwrite, VS Code, Docker
-- **Others:** UI/UX Design, SEO
+C C++ Dart Python JavaScript Java HTML5 AWS Azure Firebase Google Cloud Django FastAPI Express.js Electron.js Flask Flutter JWT NPM Next JS NodeJS OpenCV React Streamlit Apache Apache Tomcat Firebase MongoDB MySQL Postgres SQLite Figma Canva Keras NumPy Matplotlib Pandas PyTorch scikit-learn TensorFlow GitHub Git Ansible Docker Kubernetes Postman Twilio Terraform
